@@ -1,0 +1,33 @@
+# Adwaita Dark — палитра терминала
+name: Adwaita Dark
+
+# ANSI-палитра: <номер> — <название цвета>
+ansi:
+  "0": "#241F31"   # 0  — black
+  "1": "#C01C28"   # 1  — red
+  "2": "#2EC27E"   # 2  — green
+  "3": "#F5C211"   # 3  — yellow
+  "4": "#1E78E4"   # 4  — blue
+  "5": "#9841BB"   # 5  — magenta
+  "6": "#0AB9DC"   # 6  — cyan
+  "7": "#C0BFBC"   # 7  — white
+  "8": "#5E5C64"   # 8  — bright black
+  "9": "#ED333B"   # 9  — bright red
+  "10": "#57E389"  # 10 — bright green
+  "11": "#F8E45C"  # 11 — bright yellow
+  "12": "#51A1FF"  # 12 — bright blue
+  "13": "#C061CB"  # 13 — bright magenta
+  "14": "#4FD2FD"  # 14 — bright cyan
+  "15": "#F6F5F4"  # 15 — bright white
+
+# Интерфейсные цвета
+background: "#1C1C1F"   # фон окна
+foreground: "#FFFFFF"   # основной текст
+bold: "#FFFFFF"         # жирный текст
+cursor: "#FFFFFF"       # курсор
+cursorText: "#1C1C1F"   # текст под курсором
+cursorGuide: "#B3ECFF"  # направляющая курсора
+badge: "#FF2600"        # значок/бейдж
+link: "#6699CC"         # ссылки
+selection: "#FFFFFF"    # выделение
+selectedText: "#1C1C1F" # текст в выделении
